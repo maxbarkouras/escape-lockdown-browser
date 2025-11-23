@@ -1,2 +1,2 @@
-# LockdownBrowser
-LockDown Browser exploit to escape "locked" state and remove keyboard/mouse hooks, allowing for Alt+Tab, opening other processes, etc
+# Escape LockDown Browser
+LockDown Browser injection to escape "locked" state and remove keyboard/mouse hooks, allowing for normal and undetected computer use. 
